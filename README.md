@@ -1,2 +1,2 @@
 # richardisaninja.github.io
-Opendoor index
+Opendoor index utalizing Json in typescript files typescript files 
